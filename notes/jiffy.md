@@ -31,7 +31,14 @@ Previous work foucs on the job level resource allocation, which means only the  
 
 
 ## Evaluation 
-As we can  see the Fig.9,when the memory capacity decrease, Jiffy can ensure the  good job performance and high resource utilization 
+As we can  see the Fig.9,when the memory capacity decrease, Jiffy can ensure the  good job performance and high resource utilization .
+
+
+Because the architecture of jiffy is similar to the Pocket,in Fig 10,its write latency and read latency is similar to Pocket(OSDI18)
+
+
+## My Feeling 
+This work focus on the memory eleastic and its latency is similar to Pocket .But it can provide fine-grained at  managent  and task-level isolation.But we do not the see the throughput evaluaton.
 
 
 
