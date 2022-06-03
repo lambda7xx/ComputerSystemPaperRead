@@ -5,4 +5,4 @@ This repo contains the paper that I read on various topics including distributed
 ## Serverless Computing 
 - [Jiffy: Elastic Far-Memory for Stateful Serverless Analytics [EuroSys’22]](https://www.anuragkhandelwal.com/papers/jiffy.pdf)
     - [Code](https://github.com/resource-disaggregation/jiffy)
-    - Notes 
+    - [Jiffy-Notes](https://github.com/lambda7xx/SysPaperRead/blob/master/notes/jiffy.md)
